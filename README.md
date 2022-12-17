@@ -11,10 +11,11 @@ Get the two values from the user
 Assign the value of second variable to a temporary variable
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](./formula.JPG)
-
 ### Step 4: 
-Print both the values it would be interchanged
+Assign the value in temporary variable to the first variable
 ### Step 5: 
+Print both the values it would be interchanged
+### Step 6:
 End the program
 ### PROGRAM:
 ```python
